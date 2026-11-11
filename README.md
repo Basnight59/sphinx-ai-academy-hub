@@ -5,6 +5,10 @@ Seven responsive static pages: Home, Academy, Sphinx Method, Learning Lab, Reent
 ## Run
 Open `index.html` in a browser, or run `python -m http.server 8000` in this directory and visit http://localhost:8000.
 
+Each page is self-contained: its styles and script are inside the page, so any single `.html` file shows fully styled and works on its own, even when it is opened, downloaded or previewed by itself.
+
+**Editing styles or scripts:** the CSS (in `<style>`) and the JavaScript (in `<script>`) are the same in all seven pages. Change them in every page, not just one.
+
 ## Included
 - Interactive GIGO prompt-quality diagnostic (heuristic, not AI fact checking)
 - TTL knowledge check
