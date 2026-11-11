@@ -1,5 +1,7 @@
 # Sphinx AI Academy — Multipage Educational Hub Prototype
 
+**Live site:** https://basnight59.github.io/sphinx-ai-academy-hub/ (GitHub Pages, served from `main`).
+
 Seven responsive static pages: Home, Academy, Sphinx Method, Learning Lab, Reentry Pathway, Research & Legacy, Partners & Delivery.
 
 ## Run
